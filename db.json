@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Jujutsu Kaisen Vol 1",
+      "cover": "https://cdn.gramedia.com/uploads/items/9786230022180_Jujutsukaisen_1.jpg",
+      "sinopsis": "Jujutsu Kaisen bercerita tentang Yuji Itadori yang menjadi murid SMA karena sebuah kejadian..."
+    },
+    {
+      "id": "2",
+      "title": "Jujutsu Kaisen Vol 2",
+      "cover": "https://cdn.gramedia.com/uploads/items/9786230022180_Jujutsukaisen_1.jpg",
+      "sinopsis": "Jujutsu Kaisen bercerita tentang Yuji Itadori yang menjadi murid SMA karena sebuah kejadian..."
+    },
+    {
+      "id": "3",
+      "title": "Jujutsu Kaisen Vol 3",
+      "cover": "https://cdn.gramedia.com/uploads/items/9786230022180_Jujutsukaisen_1.jpg",
+      "sinopsis": "Jujutsu Kaisen bercerita tentang Yuji Itadori yang menjadi murid SMA karena sebuah kejadian..."
+    },
+    {
+      "id": "4",
+      "title": "Jujutsu Kaisen Vol 4",
+      "cover": "https://cdn.gramedia.com/uploads/items/9786230022180_Jujutsukaisen_1.jpg",
+      "sinopsis": "Jujutsu Kaisen bercerita tentang Yuji Itadori yang menjadi murid SMA karena sebuah kejadian..."
+    },
+    {
+      "id": "fc3a",
+      "title": "Jujutsu Kaisen Vol 5 Updates",
+      "cover": "https://cdn.gramedia.com/uploads/items/9786230029783_Jujutsukaisen_5.jpg",
+      "sinopsis": "Jujutsu Kaisen bercerita tentang Yuji Itadori yang menjadi murid SMA karena sebuah kejadian..."
+    }
+  ]
+}
